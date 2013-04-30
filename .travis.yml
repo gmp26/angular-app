@@ -13,4 +13,5 @@
   - cd ../client
   - npm install --quiet
 
+
  script: grunt release
