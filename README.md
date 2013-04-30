@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/angular-app/angular-app.png)](http://travis-ci.org/angular-app/angular-app)
+[![Build Status](https://travis-ci.org/gmp26/angular-app.png?branch=master)](http://travis-ci.org/gmp26/angular-app)
 
 # [AngularJS](http://www.angularjs.org/) CRUD application demo
 
